@@ -68,4 +68,4 @@ Kelas `Bentuk` memiliki metode `printInfo()` yang mencetak warna. Metode ini kem
 
 ## 📸 Screenshot Output
 
-*(Silakan letakkan file gambar di folder yang sama dan ubah `screenshot.png` di bawah ini sesuai dengan nama file screenshot Anda).*
+<img width="322" height="343" alt="image" src="https://github.com/user-attachments/assets/d57a57f2-1719-4518-802b-9c5feb2d053d" />

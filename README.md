@@ -1,5 +1,4 @@
-# OOP-Assignment
-
+# 📚 Repository OOP Assignment
 Repositori ini bertujuan untuk menyimpan dan mengorganisir seluruh hasil pekerjaan tugas pada mata kuliah **Pemrograman Berorientasi Objek (PBO/OOP)**. 
 
 Seluruh kode ditulis menggunakan bahasa **Java**, dengan fokus utama pada pemahaman dan penerapan pilar-pilar fundamental OOP beserta struktur datanya.

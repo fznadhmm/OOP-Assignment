@@ -69,5 +69,4 @@ Polimorfisme adalah kemampuan objek untuk memiliki berbagai bentuk atau perilaku
    ```
 
 ## 📸 Screenshot Output
-
-![Screenshot Hasil Program](Page0.png)
+<img width="363" height="196" alt="Page0" src="https://github.com/user-attachments/assets/62eb4778-b3f4-4d94-8b04-78a40b92b0e1" />

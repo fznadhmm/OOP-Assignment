@@ -28,27 +28,26 @@ Proyek ini dibuat untuk memenuhi tugas eksplorasi komponen GUI Java Swing.
 ### 1. Tampilan awal
 Saat aplikasi pertama dibuka, bagian catatan masih nonaktif sampai buku disimpan.
 
-![Tampilan awal](image.png)(screenshots/awal.png)
+![Tampilan awal](image.png)
 
 ### 2. Setelah buku disimpan
 Form buku terkunci dan bagian catatan bacaan sudah bisa dipakai.
 
-![Setelah Buku Disimpan](image-3.png)(screenshots/simpan.png)
+![Setelah Buku Disimpan](image-3.png)
 
 ### 3. Mencatat bacaan
 Riwayat bertambah dan progress ikut diperbarui.
 
-![Mencatat Bacaan](image-2.png)(screenshots/catat.png)
+![Mencatat Bacaan](image-2.png)
 
 ### 4. Validasi error
 Contoh pesan error ketika input tidak valid.
 
-![Pesan Error](image-4.png)(screenshots/error.png)
-
+![Pesan Error](image-4.png)
 ### 5. Buku selesai dibaca
 Muncul dialog ucapan selamat saat progress mencapai 100%.
 
-![Buku Selesai](image-5.png)(screenshots/selesai.png)
+![Buku Selesai](image-5.png)
 
 ---
 
